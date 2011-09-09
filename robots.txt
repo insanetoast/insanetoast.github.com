@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://insanetoast.com/sitemap.xml
